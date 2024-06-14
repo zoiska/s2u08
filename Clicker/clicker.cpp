@@ -1,9 +1,3 @@
-//
-// Created by zoisk on 14.06.2024.
-//
-
-// You may need to build the project (run Qt uic code generator) to get "ui_clicker.h" resolved
-
 #include "clicker.h"
 #include "ui_clicker.h"
 
